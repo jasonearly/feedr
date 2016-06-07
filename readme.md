@@ -1,0 +1,1 @@
+Feedr is an app that pulls news stories from 3 sources and allows you to view the original article within the feedr app.
